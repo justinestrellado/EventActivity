@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# EventActivity
+#
+
+projectname: EventActivity
+vendorid: com.justinestrellado.example
+mainmodule: com.justinestrellado.example.eventactivity
